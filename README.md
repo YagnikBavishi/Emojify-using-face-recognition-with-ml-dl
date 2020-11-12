@@ -8,4 +8,5 @@ Output
 1.Open webcam and detect the face
 ![alt text](https://github.com/YagnikBavishi/Emojify-using-face-recognition-with-ml-dl/blob/master/images/output1.PNG)
 
-        Fig. Detect the angry face
+2.Using Tkinter GUI send emojiy to another frame
+
